@@ -1,0 +1,28 @@
+{
+    "name": "test",
+    "desc": "this is a test to see if I can upload bob''''s example to my local store",
+    "version": "1.0.5",
+    "docs": "README.md",
+    "author": "kevin@kevin-graff.com",
+    "url": "https://pg3store.isy.io/v2/test.zip",
+    "language": "python3",
+    "developer": "kevin@kevin-graff.com",
+    "status": "new",
+    "executable": "count.py",
+    "profile_version": "1.0.5",
+    "install": "install.sh",
+    "shortPoll": 60,
+    "longPoll": 600,
+    "nsInfoPoll": 1,
+    "logLevel": "INFO",
+    "uuid": "42fefb07-b74c-4fd5-a66c-40bcfcd99a1c",
+    "discover": false,
+    "authorize": false,
+    "from_store": "Local",
+    "purchaseOptions": [
+        {
+            "isPerpetual": true,
+            "price": "0"
+        }
+    ]
+}
