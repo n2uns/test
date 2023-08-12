@@ -17,7 +17,7 @@ Custom = udi_interface.Custom
 Controller is interfacing with both Polyglot and the device. In this
 case the device is just a count that has two values, the count and the count
 multiplied by a user defined multiplier. These get updated at every
-shortPoll interval.
+shortPoll interval. test to up date git
 '''
 class Controller(udi_interface.Node):
     id = 'ctl'
